@@ -7,7 +7,7 @@
 - <b>Programming</b>
   - [ETL scripts in Python](https://github.com/lpsaqz/etl-python/blob/main/README.md)
   - [Process a file in Java](https://github.com/lpsaqz/file-java/blob/main/README.md)
-  - [Provisioning App with Primefaces](https://github.com/lpsaqz/x)
+  - [Web app with Primefaces](https://github.com/lpsaqz/x)
   - [Desktop app in Java](https://github.com/lpsaqz/x)
 - <b>Data</b>
   - [PL/pgSQL Script for reorganizing payment records](https://github.com/lpsaqz/x)
