@@ -5,7 +5,7 @@
 <h2> 🗃️ My Projects:</h2>
 
 - <b>Programming</b>
-  - [ETL scripts in Python](https://github.com/lpsaqz/x)
+  - [ETL scripts in Python](https://github.com/lpsaqz/etl-python/blob/main/README.md)
   - [Interacting with the command line in Java](https://github.com/lpsaqz/x)
   - [Provisioning App with Primefaces](https://github.com/lpsaqz/x)
 - <b>Data</b>
