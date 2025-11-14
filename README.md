@@ -10,7 +10,7 @@
   - [Web app with PrimeFaces](https://github.com/lpsaqz/wapp-primefaces/blob/main/README.md)
   - [Desktop app in Java](https://github.com/lpsaqz/deskapp-java/blob/main/README.md)
 - <b>Data</b>
-  - [PL/pgSQL Script for reorganizing payment records](https://github.com/lpsaqz/x)
+  - [PL/pgSQL Script for reorganizing credit records](https://github.com/lpsaqz/plpgsql/blob/main/README.md)
 - <b>BI & Analytics</b>
   - [Dashboards](https://github.com/lpsaqz/x)
   - [Reports](https://github.com/lpsaqz/x)
