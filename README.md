@@ -14,7 +14,7 @@
 - <b>BI & Analytics</b>
   - [Dashboards](https://github.com/lpsaqz/dashboards/blob/main/README.md)
   - [Reports](https://github.com/lpsaqz/reports/blob/main/README.md)
-  - [ETL](https://github.com/lpsaqz/x)
+  - [ETL](https://github.com/lpsaqz/etl/blob/main/README.md)
   - [Dimensional Modeling](https://github.com/lpsaqz/x)
 - <b>Orchestration & Ops</b>
   - [Terraform](https://github.com/lpsaqz/x)
