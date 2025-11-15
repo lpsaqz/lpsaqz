@@ -13,7 +13,7 @@
   - [PL/pgSQL Script for reorganizing credit records](https://github.com/lpsaqz/plpgsql/blob/main/README.md)
 - <b>BI & Analytics</b>
   - [Dashboards](https://github.com/lpsaqz/dashboards/blob/main/README.md)
-  - [Reports](https://github.com/lpsaqz/x)
+  - [Reports](https://github.com/lpsaqz/reports/blob/main/README.md)
   - [ETL](https://github.com/lpsaqz/x)
   - [Dimensional Modeling](https://github.com/lpsaqz/x)
 - <b>Orchestration & Ops</b>
