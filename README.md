@@ -17,9 +17,6 @@
   - [Reports](https://github.com/lpsaqz/reports/blob/main/README.md)
   - [ETL](https://github.com/lpsaqz/etl/blob/main/README.md)
   - [Dimensional Modeling](https://github.com/lpsaqz/dim-model/blob/main/README.md)
-- <b>Orchestration & Ops</b>
-  - [Terraform](https://github.com/lpsaqz/x)
-  - [Airflow](https://github.com/lpsaqz/x)
 - <b>Master’s degree capstone</b>
   - [Twitter Opinion Mining and Visualization of Ecuadorian Government’s Decisions](https://github.com/lpsaqz/msc/blob/main/README.md)
 
