@@ -21,7 +21,7 @@
   - [Terraform](https://github.com/lpsaqz/x)
   - [Airflow](https://github.com/lpsaqz/x)
 - <b>Master’s degree capstone</b>
-  - [Twitter Opinion Mining and Visualization of Ecuadorian Government’s Decisions](https://github.com/lpsaqz/x)
+  - [Twitter Opinion Mining and Visualization of Ecuadorian Government’s Decisions](https://github.com/lpsaqz/msc/blob/main/README.md)
 
 <h2> Connect with me:</h2>
 
